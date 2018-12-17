@@ -1,4 +1,9 @@
-
+# Purpose: The goal of ErrorSim2.0 is to simulate bit flips and explore methods for correcting them
+# while also learning Python
+# Author/s: Morgan Myhill
+# 10/10/18
+# On My Honor: MM
+# Collaborators: none
 class sim:
 
     def __init__(self, toDo):
