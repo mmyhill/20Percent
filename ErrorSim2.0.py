@@ -1,5 +1,11 @@
 import random
 import csv
+# Purpose: The goal of ErrorSim2.0 is to simulate bit flips and explore methods for correcting them
+#(and rewrite previous program with better technique/compiling more frequently)
+# Author/s: Morgan Myhill
+# 10/19/18
+# On My Honor: MM
+# Collaborators: Jude & Grant helped debugging
 
 class errorSim:
     def __init__(self, toDo):
@@ -88,3 +94,6 @@ def main():
 
 if __name__ == "__main__":
         main()
+
+
+#add method to determine actual probablity of error based on altitude, etc.
